@@ -1,0 +1,49 @@
+.side{
+   text-align: right;
+   margin-top: 15px;
+   margin-right: 15px;
+}
+.mail {
+    margin-right: 5px;
+    text-decoration-line: underline;
+}
+.img {
+    text-decoration-line: underline;
+}
+
+.google{
+    align-items: center;
+    text-align: center;
+   
+    
+}
+
+h1 {
+
+   color: rgb(159, 240, 8);
+   font-size: 600%;
+   margin-top: 30%;
+   padding-top: 30px;
+margin-block-start: 1.5em;
+}
+
+.txt {
+margin-bottom: 1%;
+}
+
+.sign {
+    margin-right: 10px;
+    text-decoration-line: underline;
+
+}
+
+.box {
+    text-decoration-line: underline;
+
+}
+
+.store{
+    margin-left: 10px;
+    text-decoration-line: underline;
+
+}
