@@ -1,0 +1,91 @@
+.insta {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.start {
+
+    display: flex;
+    flex-direction: column;
+    border: groove;
+    height: 360px;
+    margin-bottom: 2%;
+    width: 320px;
+}
+
+h1 { 
+    font-style: inherit;
+ 
+    height: 60px;
+}
+
+.log {
+    
+    width: 270px;
+    height: 25px;
+    margin-left: 7%;
+    margin-bottom: 3%;
+
+}
+
+.pswd {
+   
+    width: 270px;
+    margin-left: 7%;
+    margin-bottom: 7%;
+    height: 25px;
+
+}
+
+.logi {
+    width: 270px;
+    margin-left: 7%;
+    color: white;
+    background-color: rgb(0, 205, 251);
+    margin-bottom: 7%;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+}
+
+.ho {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10%;
+}
+
+.line {
+    width: 90px;
+    margin-right: 0.5%;
+
+}
+
+.o {
+    margin-left: 3%;
+    margin-right: 3%;
+    font-size: 100%;
+}
+
+.lin {
+    width: 90px;
+    margin-left: 1%;
+}
+
+.face {
+    color: blue;
+    text-decoration: none;
+    margin-bottom: 5%;
+}
+
+.pwd {
+    text-decoration: none;
+}
+
+.bottom{
+    border: groove;
+    width: 320px;
+
+}
