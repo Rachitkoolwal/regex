@@ -1,0 +1,14 @@
+# def greet():
+#     print("hello world!")
+#     return 'hi mars!'
+
+
+
+def factorial(n) :
+    fact =1 
+    for i in range(1 , n+1):
+         fact = fact*i
+    return fact 
+
+fact_of_5 = factorial(5)
+print(fact_of_5) 
